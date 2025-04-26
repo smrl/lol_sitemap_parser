@@ -28,12 +28,12 @@ We've methodically filtered out:
 
 The content is split into multiple files for easier handling:
 
-- **Full sitemap**: `lol_narrative_sitemap.xml` (874 KB)
+- **Full sitemap**: [https://raw.githubusercontent.com/smrl/lol_sitemap_parser/master/lol_narrative_sitemap.xml](https://raw.githubusercontent.com/smrl/lol_sitemap_parser/master/lol_narrative_sitemap.xml) (874 KB)
 - **Split sitemaps**:
-  - `lol_narrative_sitemaps/sitemap-1.xml` (2,500 URLs)
-  - `lol_narrative_sitemaps/sitemap-2.xml` (2,500 URLs)
-  - `lol_narrative_sitemaps/sitemap-3.xml` (1,413 URLs)
-  - `lol_narrative_sitemaps/sitemap-index.xml` (Index file)
+  - [https://raw.githubusercontent.com/smrl/lol_sitemap_parser/master/lol_narrative_sitemaps/sitemap-1.xml](https://raw.githubusercontent.com/smrl/lol_sitemap_parser/master/lol_narrative_sitemaps/sitemap-1.xml) (2,500 URLs)
+  - [https://raw.githubusercontent.com/smrl/lol_sitemap_parser/master/lol_narrative_sitemaps/sitemap-2.xml](https://raw.githubusercontent.com/smrl/lol_sitemap_parser/master/lol_narrative_sitemaps/sitemap-2.xml) (2,500 URLs)
+  - [https://raw.githubusercontent.com/smrl/lol_sitemap_parser/master/lol_narrative_sitemaps/sitemap-3.xml](https://raw.githubusercontent.com/smrl/lol_sitemap_parser/master/lol_narrative_sitemaps/sitemap-3.xml) (1,413 URLs)
+  - [https://raw.githubusercontent.com/smrl/lol_sitemap_parser/master/lol_narrative_sitemaps/sitemap-index.xml](https://raw.githubusercontent.com/smrl/lol_sitemap_parser/master/lol_narrative_sitemaps/sitemap-index.xml) (Index file)
 
 ## Filtering Process
 
