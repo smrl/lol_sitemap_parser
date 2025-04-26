@@ -1,0 +1,67 @@
+# Core League of Legends world and lore
+/wiki/League_of_Legends$
+/wiki/Universe
+/wiki/Lore
+/wiki/Story
+/wiki/Faction
+/wiki/Timeline
+/wiki/Biography
+/wiki/History
+/wiki/Alternate_Universe
+
+# Runeterra lore (make sure this doesn't match game element Runes)
+/wiki/Runeterra$
+/wiki/Runeterra/
+
+# Story-specific content
+/wiki/Short_story
+/wiki/Comic
+/wiki/Narrative
+/wiki/Cinematic
+/wiki/Lore_event
+
+# Champions and characters (focus on narrative aspects only)
+/wiki/Champion$
+/wiki/Champions$
+/wiki/[\w%']+/LoL$
+/wiki/[\w%']+/Background
+/wiki/[\w%']+/History
+/wiki/[\w%']+/Development
+/wiki/[\w%']+/Quotes
+/wiki/[\w%']+/Trivia
+/wiki/[\w%']+/Biography
+
+# World and Regions
+/wiki/Demacia
+/wiki/Noxus
+/wiki/Ionia
+/wiki/Freljord
+/wiki/Shurima
+/wiki/Piltover
+/wiki/Zaun
+/wiki/Bilgewater
+/wiki/Shadow_Isles
+/wiki/Void
+/wiki/Targon
+/wiki/Bandle_City
+/wiki/Ixtal
+/wiki/Icathia
+/wiki/Camavor
+/wiki/Blessed_Isles
+
+# Category inclusions for lore-specific content
+/wiki/Category:Places
+/wiki/Category:Lore
+/wiki/Category:Factions
+/wiki/Category:Characters
+/wiki/Category:Species
+/wiki/Category:Short_stories
+/wiki/Category:Comics
+/wiki/Category:Alternate_universes
+
+# Art, Media and similar content
+/wiki/Music
+/wiki/Cinematics
+/wiki/Artwork
+/wiki/Concept
+/wiki/Voice_actors
